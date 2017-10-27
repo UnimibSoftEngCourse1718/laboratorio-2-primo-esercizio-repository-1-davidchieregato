@@ -4,3 +4,8 @@ qwertyuiop
 
 #second document
 see file2.txt
+=======
+additional content
+
+#third
+file3.txt for third
